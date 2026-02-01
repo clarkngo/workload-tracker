@@ -1,8 +1,6 @@
-# Vite React GitHub Pages
+# Workload Tracker
 
-I got really annoyed on configuring a new Vite React GitHub Pages Static Site.
-
-So here's a template repo.
+A task and workload tracking application built with Vite and React.
 
 ## Install
 ```
